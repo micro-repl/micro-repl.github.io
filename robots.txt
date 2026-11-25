@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://micro-repl.github.io/sitemap.xml
